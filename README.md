@@ -54,7 +54,7 @@ The OpenAI API key used in this project is funded with minimal credit and for de
 
 - **Install required packages**
 
-- **Run the application**
+- **Run the application (.py or ipynb)**
 
 
 ---
