@@ -15,7 +15,7 @@ I developed this **Personal Mood Tracker** as my project to create a tool that h
 
 **Note on API Key:**  
 The OpenAI API key used in this project is funded with minimal credit and for demonstration purposes only. I am aware of the security risks and have implemented appropriate safeguards.
-The API Key is provided to you either in project description on CodingXCamp and Slack, since deploying it in the code would be unsafe when uploading on Github
+The API Key is provided to you either in project description on CodingXCamp and Slack, since deploying it in the code would be unsafe when uploading on Github. Please remember to add the key in line 40. 
 
 ---
 
@@ -55,7 +55,7 @@ The API Key is provided to you either in project description on CodingXCamp and 
 
 - **Install required packages**
 
-- **Add OPENAI KEY (sent via DM on Slack and in the project description on CodingXCamp)
+- **Add OPENAI KEY in line 40 of the code (sent via DM on Slack and in the project description on CodingXCamp)**
 
 - **Run the application (.py or ipynb)**
 
